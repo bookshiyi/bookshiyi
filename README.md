@@ -1,4 +1,4 @@
-### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/c215fa00-46e9-423c-8c43-89e424f50ad5.svg)](https://wakatime.com/@c215fa00-46e9-423c-8c43-89e424f50ad5)
 
 <!--
 **bookshiyi/bookshiyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
