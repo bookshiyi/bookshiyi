@@ -4,8 +4,8 @@
 
 <p align="center">
   <img alt="Skills" src="https://skillicons.dev/icons?i=c,cpp,bash,qt,flutter,dart,cmake,rust,py,swift,html,md," />
-  <img alt="Skills" src="https://skillicons.dev/icons?i=docker,ros,supabase,appwrite,sqlite,postgres,arduino,raspberrypi,ansible,sentry,flask,postman,processing" />
-  <img alt="Skills" src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,apple,linux,ubuntu,git,githubactions,vscode,notion,obsidian" />
+  <img alt="Skills" src="https://skillicons.dev/icons?i=docker,ros,supabase,appwrite,sqlite,postgres,mysql,arduino,raspberrypi,ansible,sentry,flask," />
+  <img alt="Skills" src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,workers,apple,linux,ubuntu,git,githubactions,vscode,postman,processing,notion,obsidian" />
 </p>
 
 <details>
