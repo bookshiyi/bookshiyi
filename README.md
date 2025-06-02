@@ -4,7 +4,7 @@
 
 <p align="center">
   <img alt="Skills" src="https://skillicons.dev/icons?i=c,cpp,bash,qt,flutter,dart,cmake,rust,docker,py,ros,supabase,appwrite,sentry,swift,arduino,raspberrypi,sqlite,ansible,flask,html,md,postgres,postman,processing" />
-  <img alt="Skills" src="https://skillicons.dev/icons?i=cloudflare,vercel,aws,linux,vscode,apple,git,githubactions,notion,obsidian,ubuntu" />
+  <img alt="Skills" src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,apple,ubuntu,linux,git,githubactions,vscode,notion,obsidian" />
 </p>
 
 <details>
